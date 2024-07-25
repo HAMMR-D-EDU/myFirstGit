@@ -1,0 +1,11 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "### Install Instructions To install this file clone the repo and run npm install to install the dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
